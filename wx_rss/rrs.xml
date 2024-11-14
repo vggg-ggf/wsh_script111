@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>/feeds/all.atom</id>
+    <title>WeWe-RSS All</title>
+    <updated>2024-06-10T10:00:03.000Z</updated>
+    <generator>WeWe-RSS</generator>
+    <author>
+        <name>WeWe-RSS All</name>
+    </author>
+    <link rel="alternate" href="/feeds/all.atom"/>
+    <subtitle>WeWe-RSS 全部文章</subtitle>
+    <logo>https://r2-assets.111965.xyz/wewe-rss.png</logo>
+    <icon>https://r2-assets.111965.xyz/wewe-rss.png</icon>
+</feed>
